@@ -1,2 +1,4 @@
 bin/
 
+.gradle
+gradle/wrapper/gradle-wrapper.jar
