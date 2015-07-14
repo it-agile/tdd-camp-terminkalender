@@ -1,2 +1,6 @@
 bin/
 
+.gradle
+gradle/wrapper/gradle-wrapper.jar
+out
+tdd-camp-terminkalender.i*
